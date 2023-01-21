@@ -8,7 +8,7 @@ public class Util {
     public static final String PASSWD = "SuperSecretPassword!";
 
     //No valid credentials for login
-    public static final String INVALID_USER_NAME = "TomPagla";
+    public static final String INVALID_USER_NAME = "TomSagol";
 
 }
 
